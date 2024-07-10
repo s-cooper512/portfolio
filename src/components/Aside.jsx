@@ -8,10 +8,10 @@ function Aside() {
       <h3>Skills</h3>
       <ul>
         <li>React</li>
-        <li>Node.js</li>
+        <li>Java</li>
         <li>HTML/CSS</li>
         <li>JavaScript</li>
-        <li>Redux</li>
+        <li>PostgreSQL</li>
       </ul>
     </aside>
   );
