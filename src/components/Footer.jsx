@@ -13,7 +13,7 @@ function Footer() {
         <div className="footer-section">
           <h4>More Projects and Code</h4>
           <ul>
-            <li><a href="#">GitHub</a></li>
+            <li><a href="https://github.com/s-cooper512">GitHub</a></li>
           </ul>
         </div>
       </div>
