@@ -35,6 +35,14 @@ const projectsList = [
   }
 ];
 
+const PDFViewer = () => {
+  return (
+  <div>
+  <iframe src="resume.pdf" width="100%" height="500px" />
+  </div>
+  );
+ };
+
 function App() {
   return (
     <>
@@ -57,7 +65,7 @@ function App() {
               <p>With a keen eye for technically meeting the requirements for my assignments, I strive to turn them in.</p>
             </div>
             <div className="about-image">
-              <img src="https://via.placeholder.com/300x200" alt="About Image" />
+              <img src="https://ca.slack-edge.com/EJYQ8J5SL-U024DR86WF9-ea6f28c1a702-512" alt="About Image" />
             </div>
           </div>
         </Section>
@@ -79,7 +87,8 @@ function App() {
           </div>
         </Section>
       </main>
-
+      
+      <PDFViewer/>
       <Aside />
 
       <Footer />
