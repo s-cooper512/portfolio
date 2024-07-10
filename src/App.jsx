@@ -38,7 +38,7 @@ const projectsList = [
 const PDFViewer = () => {
   return (
   <div>
-  <iframe src="resume.pdf" width="100%" height="500px" />
+  <iframe src="https://github.com/s-cooper512/portfolio/blob/ac1596dee7a78b435bfaf761f92abf6a587b06fd/resume.pdf" width="100%" height="500px" />
   </div>
   );
  };
