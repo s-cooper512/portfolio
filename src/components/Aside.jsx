@@ -19,7 +19,7 @@ function Aside() {
       </ul>
       </div>
       <div>
-        <img src="GACert.png" alt="General Assembly Programming Certificate"/>
+        <img src="GACert.png" alt="General Assembly Programming Certificate" height="350px"/>
         </div>
       </div>
     </aside>
