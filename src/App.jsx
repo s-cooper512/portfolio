@@ -62,11 +62,12 @@ function App() {
           <div className="about-content">
             <div className="about-text">
               <p>Hi, I'm Stephen Cooper and I'm doing work stuff.</p>
-              <p>With a keen eye for technically meeting the requirements for my assignments, I strive to turn them in.</p>
+              <p>With a keen eye for technically meeting the requirements for my assignments, I strive to turn them in. I have a resume. Take a look!</p>
               <PDFViewer/>
             </div>
             <div className="about-image">
-              <img src="https://ca.slack-edge.com/EJYQ8J5SL-U024DR86WF9-ea6f28c1a702-512" alt="About Image" />
+              <p>[Image sourced from current Slack profile]</p>
+              <img src="https://ca.slack-edge.com/EJYQ8J5SL-U024DR86WF9-ea6f28c1a702-512" alt="About Image" height="500px" width="100%" />
             </div>
           </div>
         </Section>
