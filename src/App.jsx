@@ -62,7 +62,7 @@ function App() {
           <div className="about-content">
             <div className="about-text">
               <p>Hi, I'm Stephen Cooper and I'm doing work stuff.</p>
-              <p>With a keen eye for technically meeting the requirements for my assignments, I strive to turn them in. I have a resume. Take a look!</p>
+              <p>With a keen eye for technically meeting the requirements for my assignments, I strive to turn them in. I have a resume.</p>
               <PDFViewer/>
             </div>
             <div className="about-image">
