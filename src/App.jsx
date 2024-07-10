@@ -66,7 +66,7 @@ function App() {
               <PDFViewer/>
             </div>
             <div className="about-image">
-              <p>[Image sourced from current Slack profile]</p>
+              <br />
               <br />
               <img src="https://ca.slack-edge.com/EJYQ8J5SL-U024DR86WF9-ea6f28c1a702-512" alt="About Image" height="500px" width="100%" />
             </div>
