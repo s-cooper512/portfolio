@@ -8,14 +8,11 @@ function Footer() {
       <div className="footer-content">
         <div className="footer-section">
           <h4>Contact</h4>
-          <p>Email: email@address.com</p>
-          <p>Phone: 911-531-8008</p>
+          <p>Email: scooper@indeed.com</p>
         </div>
         <div className="footer-section">
-          <h4>Social</h4>
+          <h4>More Projects and Code</h4>
           <ul>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">LinkedIn</a></li>
             <li><a href="#">GitHub</a></li>
           </ul>
         </div>

@@ -2,7 +2,7 @@
 
 //import './src/App.css';
 import Header from './components/Header';
-import Nav from './components/Nav';
+//import Nav from './components/Nav';
 import Section from './components/Section';
 import Aside from './components/Aside';
 import Footer from './components/Footer';
@@ -39,14 +39,12 @@ function App() {
   return (
     <>
       <Header />
-      <Nav />
       <main>
         <Section id="hero">
           <div className="hero">
             <div className="hero-content">
               <h1>Welcome to My Portfolio</h1>
               <p>Explore my work and skills.</p>
-              <button>Learn More</button>
             </div>
           </div>
         </Section>
@@ -55,7 +53,7 @@ function App() {
           <h2>About Me</h2>
           <div className="about-content">
             <div className="about-text">
-              <p>Hi, I'm Stephen Cooper and I'm doing homework.</p>
+              <p>Hi, I'm Stephen Cooper and I'm doing work stuff.</p>
               <p>With a keen eye for technically meeting the requirements for my assignments, I strive to turn them in.</p>
             </div>
             <div className="about-image">
