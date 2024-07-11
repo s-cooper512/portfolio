@@ -25,7 +25,7 @@ const projectsList = [
     img: "https://via.placeholder.com/300x200",
     imgAlt: "Project 3",
     projectName: "Project 3",
-    projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Wait... This just clicked and react is kind of cool AF"
+    projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   },
   {
     img: "https://static.wikia.nocookie.net/nickelodeon/images/d/d9/DoodleBob.png",
