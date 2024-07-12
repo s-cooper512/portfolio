@@ -10,7 +10,7 @@ function projectTile ({img, imgAlt, projectName, projectDescription, projectLink
             <br />
             <hr />
             <br />
-            <a href={projectLink}>Code Link</a>
+            <a href={projectLink} target='_blank'>Code Link</a>
         </div>
     );
 }
