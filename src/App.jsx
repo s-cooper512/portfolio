@@ -35,7 +35,7 @@ const projectsList = [
     imgAlt: "DoodleBob",
     projectName: "Project DoodleBob",
     projectDescription: "Me hoy minoy!",
-    projectLink: "https://spongebob.fandom.com/wiki/DoodleBob"
+    projectLink: "#https://spongebob.fandom.com/wiki/DoodleBob"
   }
 ];
 
