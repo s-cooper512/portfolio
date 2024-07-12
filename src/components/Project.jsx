@@ -7,6 +7,8 @@ function projectTile ({img, imgAlt, projectName, projectDescription, projectLink
             <img src={img} alt={imgAlt} />
             <h3>{projectName}</h3>
             <p>{projectDescription}</p>
+            <br></br>
+            <hr />
             <a href={projectLink}>Code Link</a>
         </div>
     );
