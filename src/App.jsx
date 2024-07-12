@@ -13,25 +13,29 @@ const projectsList = [
     img: "https://via.placeholder.com/300x200",
     imgAlt: "Project 1",
     projectName: "Project 1",
-    projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    projectLink: "https://www.google.com/"
   },
   {
     img: "https://via.placeholder.com/300x200",
     imgAlt: "Project 2",
     projectName: "Project 2",
-    projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    projectLink: "https://www.google.com/"
   },
   {
     img: "https://via.placeholder.com/300x200",
     imgAlt: "Project 3",
     projectName: "Project 3",
-    projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    projectLink: "https://www.google.com/"
   },
   {
     img: "https://static.wikia.nocookie.net/nickelodeon/images/d/d9/DoodleBob.png",
     imgAlt: "DoodleBob",
     projectName: "Project DoodleBob",
-    projectDescription: "Me hoy minoy!"
+    projectDescription: "Me hoy minoy!",
+    projectLink: "https://spongebob.fandom.com/wiki/DoodleBob"
   }
 ];
 
